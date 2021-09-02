@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>69081239416-6r81kogi8sjd0p08ukjn569pcv0pu0ag.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.69081239416-6r81kogi8sjd0p08ukjn569pcv0pu0ag</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>69081239416-5o0hqsfc8ka5jg3qgqv2reeelvpv4of8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBML5fXKo1fzDZJbh0lzycmAHDRBY3HXv4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>69081239416</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eieo.booth</string>
+	<key>PROJECT_ID</key>
+	<string>loschaneques-mexico</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loschaneques-mexico.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:69081239416:ios:ff7387c231e8aef78c428d</string>
+	<key>DATABASE_URL</key>
+	<string>https://loschaneques-mexico.firebaseio.com</string>
+</dict>
+</plist>

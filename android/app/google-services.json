@@ -1,0 +1,115 @@
+{
+    "project_info": {
+        "project_number": "69081239416",
+        "firebase_url": "https://loschaneques-mexico.firebaseio.com",
+        "project_id": "loschaneques-mexico",
+        "storage_bucket": "loschaneques-mexico.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:69081239416:android:5094f9418c99c7628c428d",
+                "android_client_info": {
+                    "package_name": "com.eieo.booth"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "69081239416-cpm28bitieto569fae4k3v3n01f0qplg.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.eieo.booth",
+                        "certificate_hash": "47b899bf5b895ed30b1f7ebec2843d75457bd8ef"
+                    }
+                },
+                {
+                    "client_id": "69081239416-jg4ph9i78ouunrc0293l08hd0ai8im23.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.eieo.booth",
+                        "certificate_hash": "9f268d8ebda04c19f324ab74dfe6ae7601e90e62"
+                    }
+                },
+                {
+                    "client_id": "69081239416-hi0o78sklnoag22iv593rljjanr6gg94.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCWdMpX-qZYS-yNVkLTTFZtcy9HVGzeBTQ"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "69081239416-hi0o78sklnoag22iv593rljjanr6gg94.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "69081239416-07j19o386bvmifr7ti8t8mjsah4ieq9e.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.eieo.Easyuser"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:69081239416:android:924b98a61481f0898c428d",
+                "android_client_info": {
+                    "package_name": "com.eieo.user"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "69081239416-7csmgfo5i8rr2b5i86rlg8hnuvpgcrpb.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.eieo.user",
+                        "certificate_hash": "47b899bf5b895ed30b1f7ebec2843d75457bd8ef"
+                    }
+                },
+                {
+                    "client_id": "69081239416-lsoh680gsjmcq3n0hmpi0jj38kea4ad4.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.eieo.user",
+                        "certificate_hash": "affcdd1e36eb798bb31d2a6129915c9186698906"
+                    }
+                },
+                {
+                    "client_id": "69081239416-hi0o78sklnoag22iv593rljjanr6gg94.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCWdMpX-qZYS-yNVkLTTFZtcy9HVGzeBTQ"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "69081239416-hi0o78sklnoag22iv593rljjanr6gg94.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "69081239416-07j19o386bvmifr7ti8t8mjsah4ieq9e.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.eieo.Easyuser"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

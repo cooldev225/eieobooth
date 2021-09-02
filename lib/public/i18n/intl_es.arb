@@ -1,0 +1,802 @@
+{
+  "@@locale": "es",
+  "@@last_modified": "2020-07-08T03:33:45.449233",
+  "title": "EASY IN EASY OUT",
+  "@title": {
+    "description": "App title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Iniciar sesión",
+  "@login": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidLogin": "Usuario o contraseña incorrectos",
+  "@invalidLogin": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "multipleLogin": "Multiples sesiones del mismo usuario",
+  "@multipleLogin": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintUsername": "Nombre de usuario",
+  "@hintUsername": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintPassword": "Contraseña",
+  "@hintPassword": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginSuccess": "Acceso exitoso",
+  "@loginSuccess": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginFailure": "No se pudo acceder",
+  "@loginFailure": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "users": "Usuarios",
+  "@users": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "schedule": "Calendario",
+  "@schedule": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scan": "Scan",
+  "@scan": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Buscar",
+  "@search": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "serverError": "Algo salió mal",
+  "@serverError": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "houseID": "ID de la casa",
+  "@houseID": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "direction": "Direcciones",
+  "@direction": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userLocations": "Localizaciones del usuario",
+  "@userLocations": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "transport": "Transporte",
+  "@transport": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "parcel": "Paquete",
+  "@parcel": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "food": "Comida",
+  "@food": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pet": "Mascota",
+  "@pet": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "health": "Salud",
+  "@health": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "Mensaje",
+  "@message": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "guest": "Invitado",
+  "@guest": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "service": "Servicio",
+  "@service": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "send": "Enviar",
+  "@send": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPlate": "Agregar plato",
+  "@addPlate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "typeMessageHere": "Escribe un mensaje...",
+  "@typeMessageHere": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDirection": "El residente no agregó información extra de cómo llegar a la residencia",
+  "@noDirection": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noCameras": "Las cámaras no están disponibles en este momento.",
+  "@noCameras": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addGuestName": "Añade el nombre del visitante",
+  "@addGuestName": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "arrival": "Llegada",
+  "@arrival": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "departure": "Salida",
+  "@departure": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resident": "Residente",
+  "@resident": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "visitor": "Visitante",
+  "@visitor": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "status": "Estado",
+  "@status": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "type": "Tipo",
+  "@type": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gate": "Portón",
+  "@gate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "event": "Evento",
+  "@event": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "retur": "Regreso",
+  "@retur": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "visit": "Visitar",
+  "@visit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "extendVisit": "Visita extendida",
+  "@extendVisit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmExtendVisit": "Estás seguro que quieres extender la visita?",
+  "@confirmExtendVisit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanMode": "Selecciona el modo de escaneo",
+  "@scanMode": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "qrcode": "Código QR",
+  "@qrcode": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bio": "Captura biométrica",
+  "@bio": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "plate": "Placas",
+  "@plate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanning": "Escaneando",
+  "@scanning": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noResidents": "No hay residentes",
+  "@noResidents": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "visitTimeExpired": "Tiempo de visita expirado",
+  "@visitTimeExpired": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notifyResident": "Notificar residente",
+  "@notifyResident": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCode": "Código inválido",
+  "@invalidCode": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidUser": "Usuario inválido",
+  "@invalidUser": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidPlate": "Placa inválida",
+  "@invalidPlate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validCode": "Código válido",
+  "@validCode": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validUser": "Usuario válido",
+  "@validUser": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validPlate": "Placa válida",
+  "@validPlate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Idioma",
+  "@language": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Cerrar sesión",
+  "@logout": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "msgSentSuccess": "Mensaje enviado correctamente",
+  "@msgSentSuccess": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "readyPleaseTapToScan": "Listo, toca la pantalla para escanear",
+  "@readyPleaseTapToScan": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcome": "Bienvenido",
+  "@welcome": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "plateAssociated": "Placa asociada correctamente",
+  "@plateAssociated": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "plateDeAssociated": "Placa desasociada correctamente",
+  "@plateDeAssociated": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "plateDeAssociatedFail": "Falló la desasociación de la placa",
+  "@plateDeAssociatedFail": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProfile": "Editar perfil",
+  "@editProfile": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact": "Contacto",
+  "@contact": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notifications": "Notificaciones",
+  "@notifications": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "faq": "FAQ",
+  "@faq": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "somethingWentWrong": "Algo salió mal",
+  "@somethingWentWrong": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Si",
+  "@yes": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendingNotification": "Enviando notifcación...",
+  "@sendingNotification": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "messageLengthExceed": "Excede el límite máximo de longitud\nPor favor ingresa menos de 200 caracteres.",
+  "@messageLengthExceed": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "wantLogout": "Estás seguro que quieres cerrar la sesión?",
+  "@wantLogout": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "wantExit": "Estás seguro que quieres salir?",
+  "@wantExit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "show": "Mostrar",
+  "@show": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "unread": "Sin leer",
+  "@unread": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationSentSuccessful": "Notficación enviada exitosamente",
+  "@notificationSentSuccessful": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationSentFailure": "Envío fallido",
+  "@notificationSentFailure": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "messageEmpty": "El mensaje está vacío.\nPor favor ingresa un mensaje",
+  "@messageEmpty": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "exitMessage": "Da doble click para salir.",
+  "@exitMessage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "refresh": "Refrescar",
+  "@refresh": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "clearAll": "Borrar todo",
+  "@clearAll": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "readAll": "Leer todo",
+  "@readAll": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "guestNameEmpty": "El nombre del invitado está vacío\nPor favor ingresa el nombre del invitado",
+  "@guestNameEmpty": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "guestImageEmpty": "Por favor toma una foto del invitado",
+  "@guestImageEmpty": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "remove": "Quitar",
+  "@remove": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "neww": "Nuevo",
+  "@neww": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detail": "Detalle",
+  "@detail": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noNotificationsRecent": "No hay notificaciones recientes",
+  "@noNotificationsRecent": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInvitations": "El invitado no tiene invitaciones",
+  "@noInvitations": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noSchedule": "No hay visita registrada",
+  "@noSchedule": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "succeded": "Operación exitosa",
+  "@succeded": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "failed": "Operación fallida",
+  "@failed": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passMsg": "¿Estás segura de pasar a esta visitante?",
+  "@passMsg": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ending": "El visitante está saliendo de la residencial\nTerminar la visita?",
+  "@ending": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "end": "Finalizada",
+  "@end": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "endVisit": "Visita finalizada",
+  "@endVisit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "comeback": "Regreso",
+  "@comeback": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancelar",
+  "@cancel": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "goout": "Salir",
+  "@goout": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userDetail": "El usuario ha sido verificado con los siguientes parámetros",
+  "@userDetail": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invitations": "Invitaciones",
+  "@invitations": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFavorites": "El usuario no ha sido registrado como favorito",
+  "@noFavorites": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favorites": "Favoritos",
+  "@favorites": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notArrived": "No ha llegado",
+  "@notArrived": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "arrived": "Adentro de la residencial",
+  "@arrived": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ended": "Finalizada",
+  "@ended": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "expired": "Expirada",
+  "@expired": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "wentOut": "Salió",
+  "@wentOut": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favorite": "Favorito",
+  "@favorite": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "serviceProvider": "Proveedor de servicios",
+  "@serviceProvider": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "jan": "JAN",
+  "@jan": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feb": "FEB",
+  "@feb": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mar": "MAR",
+  "@mar": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "apr": "APR",
+  "@apr": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "may": "MAY",
+  "@may": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "jun": "JUN",
+  "@jun": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "jul": "JUL",
+  "@jul": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aug": "AUG",
+  "@aug": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sep": "SEP",
+  "@sep": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oct": "OCT",
+  "@oct": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nov": "NOV",
+  "@nov": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dec": "DEC",
+  "@dec": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "Notificación",
+  "@notification": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveChange": "Guardar cambios",
+  "@saveChange": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "to": "To",
+  "@to": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "all": "Todos",
+  "@all": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deassociate": "Desasociar\nplaca",
+  "@deassociate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveNewNotifications": "{i,plural, other{You have {i} unread notifications}}",
+  "@haveNewNotifications": {
+    "description": "",
+    "type": "text",
+    "placeholders": {
+      "i": {}
+    }
+  },
+  "multipleLoginMessage": "Se detectó otro dispositivo que inició sesión con este perfil.\nSaldremos de este dispositivo.",
+  "@multipleLoginMessage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {
+      "i": {}
+    }
+  },
+  "plateNotAllowed": "Este residencial no admite placa.",
+  "@plateNotAllowed": {
+    "description": "",
+    "type": "text",
+    "placeholders": {
+      "i": {}
+    }
+  }
+}

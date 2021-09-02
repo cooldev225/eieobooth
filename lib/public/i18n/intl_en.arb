@@ -1,0 +1,802 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2020-07-08T03:33:45.449233",
+  "title": "EASY IN EASY OUT",
+  "@title": {
+    "description": "App title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidLogin": "Username or password is incorrect",
+  "@invalidLogin": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "multipleLogin": "Multiple log in",
+  "@multipleLogin": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintUsername": "Username",
+  "@hintUsername": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintPassword": "Password",
+  "@hintPassword": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginSuccess": "Login successful",
+  "@loginSuccess": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginFailure": "Login failed",
+  "@loginFailure": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "users": "Users",
+  "@users": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "schedule": "Schedule",
+  "@schedule": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scan": "Scan",
+  "@scan": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Search",
+  "@search": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "serverError": "Something went wrong",
+  "@serverError": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "houseID": "House ID",
+  "@houseID": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "direction": "Directions",
+  "@direction": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userLocations": "User Locations",
+  "@userLocations": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "transport": "Transport",
+  "@transport": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "parcel": "Parcel",
+  "@parcel": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "food": "Food",
+  "@food": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pet": "Pet",
+  "@pet": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "health": "Health",
+  "@health": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "Message",
+  "@message": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "guest": "Guest",
+  "@guest": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "service": "Service",
+  "@service": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "send": "Send",
+  "@send": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPlate": "Add plate",
+  "@addPlate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "typeMessageHere": "Type message here",
+  "@typeMessageHere": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDirection": "The resident did not provide extra information on how to get to his residence",
+  "@noDirection": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noCameras": "The cameras on this mobile phone are not available currently.",
+  "@noCameras": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addGuestName": "Add guest name",
+  "@addGuestName": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "arrival": "Arrival",
+  "@arrival": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "departure": "Departure",
+  "@departure": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resident": "Resident",
+  "@resident": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "visitor": "Visitor",
+  "@visitor": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "status": "Status",
+  "@status": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "type": "Type",
+  "@type": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gate": "Gate",
+  "@gate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "event": "Event",
+  "@event": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "retur": "Return",
+  "@retur": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "visit": "Visit",
+  "@visit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "extendVisit": "Extend visit",
+  "@extendVisit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmExtendVisit": "Are you sure to extend visit?",
+  "@confirmExtendVisit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanMode": "Select the scan mode",
+  "@scanMode": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "qrcode": "QR Code",
+  "@qrcode": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bio": "Biometric capture",
+  "@bio": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "plate": "Plate number capture",
+  "@plate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanning": "Scanning",
+  "@scanning": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noResidents": "There is no resident",
+  "@noResidents": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "visitTimeExpired": "Visit time expired",
+  "@visitTimeExpired": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notifyResident": "Notify resident",
+  "@notifyResident": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCode": "Invalid code",
+  "@invalidCode": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidUser": "Invalid user",
+  "@invalidUser": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidPlate": "Invalid plate",
+  "@invalidPlate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validCode": "Valid code",
+  "@validCode": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validUser": "Valid user",
+  "@validUser": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validPlate": "Valid plate",
+  "@validPlate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Language",
+  "@language": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Log out",
+  "@logout": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "msgSentSuccess": "Message sent successfully",
+  "@msgSentSuccess": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "readyPleaseTapToScan": "Ready, please tap to scan",
+  "@readyPleaseTapToScan": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "plateAssociated": "Plate associated successfully",
+  "@plateAssociated": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "plateDeAssociated": "Plate deassociated successfully",
+  "@plateDeAssociated": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "plateDeAssociatedFail": "Plate deassociation failed",
+  "@plateDeAssociatedFail": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProfile": "Edit profile",
+  "@editProfile": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact": "Contact",
+  "@contact": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "faq": "FAQ",
+  "@faq": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "somethingWentWrong": "Something went wrong",
+  "@somethingWentWrong": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendingNotification": "Sending notification...",
+  "@sendingNotification": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "messageLengthExceed": "Exceeded max length of the message\nPlease input less than 200 characters",
+  "@messageLengthExceed": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "wantLogout": "Are you sure to log out?",
+  "@wantLogout": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "wantExit": "Are you sure to exit?",
+  "@wantExit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "show": "Show",
+  "@show": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "unread": "Unread",
+  "@unread": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationSentSuccessful": "Notification sent successfully",
+  "@notificationSentSuccessful": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationSentFailure": "Notification sending failed",
+  "@notificationSentFailure": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "messageEmpty": "Message is empty.\nPlease input message",
+  "@messageEmpty": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "exitMessage": "Double click to exit",
+  "@exitMessage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "refresh": "Refresh",
+  "@refresh": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "clearAll": "Clear all",
+  "@clearAll": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "readAll": "Read all",
+  "@readAll": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "guestNameEmpty": "Guest name is empty\nPlease input guest name",
+  "@guestNameEmpty": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "guestImageEmpty": "Please take image of guest",
+  "@guestImageEmpty": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "remove": "Remove",
+  "@remove": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "neww": "New",
+  "@neww": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detail": "Detail",
+  "@detail": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noNotificationsRecent": "There is no recent notification",
+  "@noNotificationsRecent": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInvitations": "The guest has no valid invitations",
+  "@noInvitations": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noSchedule": "There is no visit scheduled",
+  "@noSchedule": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "succeded": "Operation succeded",
+  "@succeded": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "failed": "Operation failed",
+  "@failed": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pass": "Are you sure to pass this visitor?",
+  "@pass": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ending": "The visitor is going out the residential\nIs he going to end visit?",
+  "@ending": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "end": "End",
+  "@end": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "endVisit": "End visit",
+  "@endVisit": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "comeback": "Comeback",
+  "@comeback": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "goout": "Go out",
+  "@goout": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userDetail": "The user has been verified as the following qualifications",
+  "@userDetail": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invitations": "Invitations",
+  "@invitations": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFavorites": "The user has not been registered as favorite",
+  "@noFavorites": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favorites": "Favorites",
+  "@favorites": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notArrived": "Not arrived",
+  "@notArrived": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "arrived": "Arrived",
+  "@arrived": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ended": "Ended",
+  "@ended": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "expired": "Expired",
+  "@expired": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "wentOut": "Went out",
+  "@wentOut": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favorite": "Favorite",
+  "@favorite": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "serviceProvider": "Service provider",
+  "@serviceProvider": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "jan": "JAN",
+  "@jan": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feb": "FEB",
+  "@feb": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mar": "MAR",
+  "@mar": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "apr": "APR",
+  "@apr": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "may": "MAY",
+  "@may": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "jun": "JUN",
+  "@jun": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "jul": "JUL",
+  "@jul": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aug": "AUG",
+  "@aug": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sep": "SEP",
+  "@sep": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oct": "OCT",
+  "@oct": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nov": "NOV",
+  "@nov": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dec": "DEC",
+  "@dec": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "Notification",
+  "@notification": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveChange": "Save change",
+  "@saveChange": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "to": "To",
+  "@to": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "all": "All",
+  "@all": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deassociate": "Deassociate\nPlate",
+  "@deassociate": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveNewNotifications": "{i,plural, other{You have {i} unread notifications}}",
+  "@haveNewNotifications": {
+    "description": "",
+    "type": "text",
+    "placeholders": {
+      "i": {}
+    }
+  },
+  "multipleLoginMessage": "Detected another device logged in with this profile.\nWe will log out of this device.",
+  "@multipleLoginMessage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {
+      "i": {}
+    }
+  },
+  "plateNotAllowed": "This residential doesn't allow plate.",
+  "@plateNotAllowed": {
+    "description": "",
+    "type": "text",
+    "placeholders": {
+      "i": {}
+    }
+  }
+}
